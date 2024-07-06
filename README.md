@@ -1,6 +1,7 @@
 <img width=100% src="/img/mario.gif"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=4000&color=80F7D4&center=true&random=false&width=435&lines=Fullstack+Developer)](https://git.io/typing-svg)
+<div align='center'>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=2000&color=80F7D4&center=true&random=true&width=600&height=100&lines=Fullstack+Developer;Knowledge+is+power!;In+the+process+of+studying+and+learning;Have+a+nice+day!" alt="Typing SVG"/></a></div>
 
 
 <div align='center'>
