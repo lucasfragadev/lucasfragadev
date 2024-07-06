@@ -1,5 +1,7 @@
 <img width=100% src="/img/mario.gif"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=4000&color=002B62&random=false&width=435&lines=Fullstack+Developer)](https://git.io/typing-svg)
+
 <div align='center'>
 
 <div align="center">  
