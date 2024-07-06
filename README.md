@@ -1,8 +1,11 @@
 <img width=100% src="/img/mario.gif"/>
 
-<p>
-<a href="https://github.com/lucasfragadev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&duration=6000&pause=4000&color=80f7d4&random=false&width=435&lines=Fullstack+Developer">
+<p style="text-align: center;">
+  <a href="https://github.com/lucasfragadev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&duration=6000&pause=4000&color=80f7d4&random=false&width=435&lines=Fullstack+Developer" alt="Fullstack Developer">
+  </a>
 </p>
+
 
 <div align='center'>
 
@@ -18,7 +21,7 @@
 
 <img src="/img/lineBar.png" width="100%" height="8px"/>
 
-<div><br />
+<div><br/>
 
 ## My Stack
 
