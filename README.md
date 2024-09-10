@@ -33,7 +33,7 @@
 - Atualmente tenho aprendido bastante sobre tecnologia, algoritmos, lógica e linguagens de progamação. <br/>
 - Tenho estudado sobre: Python, JS, MySQL, HTML & CSS etc. <br/>
 - Considero-me determinado e estou realmente empenhado em alcançar meus objetivos. <br/>
-- Sou apaixonado em me conectar com pessoas! Então, se quiser falar sobrer aprendizado, tecnologia, família, games ou esportes. Envie-me uma mensagem!
+- Sou apaixonado em me conectar com pessoas! Então, se quiser falar sobre aprendizado, tecnologia, família, games ou esportes. Envie-me uma mensagem!
 
 <br/>
 
