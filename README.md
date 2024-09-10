@@ -29,14 +29,13 @@
 
 ## **Um pouco sobre mim**
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25"/> Olá! Pode me chamar de Fraga. Sou um desenvolvedor full-stack. <br/>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25"/> Atualmente tenho aprendido muitas tecnologias novas e continuo aprendendo. Ah, estou em busca de uma primeira oportunidade também. <br/>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25"/> Estou estudando e aprendendo: Python, JS, MySQL, HTML & CSS etc. <br/>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25"/> Considero-me determinado e estou realmente empenhado em alcançar meus objetivos. <br/>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25"/> Sou apaixonado em me conectar com pessoas! Então, se quiser falar sobrer aprendizado, tecnologia, família, games ou esportes. Envie-me uma mensagem!
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" alt="Orange Heart" width="25" height="25"/> Check out my [portfolio](#))!
+- Olá! Pode me chamar de Fraga. Sou um desenvolvedor full-stack. <br/>
+- Atualmente tenho aprendido bastante sobre tecnologia, algoritmos, lógica e linguagens de progamação. <br/>
+- Tenho estudado sobre: Python, JS, MySQL, HTML & CSS etc. <br/>
+- Considero-me determinado e estou realmente empenhado em alcançar meus objetivos. <br/>
+- Sou apaixonado em me conectar com pessoas! Então, se quiser falar sobrer aprendizado, tecnologia, família, games ou esportes. Envie-me uma mensagem!
 
-<br />
+<br/>
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
