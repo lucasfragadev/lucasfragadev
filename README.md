@@ -20,30 +20,30 @@
 
 <div><br/>
 
-## 🚀 **Languages and Tools**:
+## 🚀 **Linguagens e Frameworks**:
 
  
- #### 🌱 I'm learning every day:
+ #### 🌱 Estou aprendendo todos os dias:
 
 <img src="https://skillicons.dev/icons?i=python,flask,selenium,mysql,js,html,css,figma,aws&theme=dark"/>
 
-## **About me**
+## **Um pouco sobre mim**
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Lucas Fraga and I am a Fullstack Developer. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is to keep learning and soon get my first job.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> I'm studying and my main stack is HTML, CSS, Javascript and Python.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I'm determined and in career transition, I love interacting with new people and sharing my story!.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Want to talk about learning, technology, family, games or sports? Send me a message!
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" alt="Orange Heart" width="25" height="25" /> Check out my [portfolio](#))!
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25"/> Olá! Pode me chamar de Fraga. Sou um desenvolvedor full-stack. <br/>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25"/> Atualmente tenho aprendido muitas tecnologias novas e continuo aprendendo. Ah, estou em busca de uma primeira oportunidade também. <br/>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25"/> Estou estudando e aprendendo: Python, JS, MySQL, HTML & CSS etc. <br/>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25"/> Considero-me determinado e estou realmente empenhado em alcançar meus objetivos. <br/>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25"/> Sou apaixonado em me conectar com pessoas! Então, se quiser falar sobrer aprendizado, tecnologia, família, games ou esportes. Envie-me uma mensagem!
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" alt="Orange Heart" width="25" height="25"/> Check out my [portfolio](#))!
 
 <br />
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
-## Contact me
+## Vamos nos conectar? 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devlucasfraga/)
-[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](#contact-me)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasfragadev/)
+<!-- [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](#contact-me) -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=002B62&height=120&section=footer"/>
