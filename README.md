@@ -1,4 +1,4 @@
-<img width=100% src="/img/mario.gif"/>
+<img width=100% src="/img/img-banner.gif"/>
 
 <div align='center'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=2000&color=80F7D4&center=true&random=true&width=600&height=100&lines=Fullstack+Developer;Knowledge+is+power!;In+the+process+of+studying+and+learning;Have+a+nice+day!" alt="Typing SVG"/></a></div>
@@ -25,7 +25,7 @@
  
  #### 🌱 I'm learning every day:
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,figma,vscode,git,github,aws&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,flask,selenium,mysql,js,html,css,figma,aws&theme=dark"/>
 
 ## **About me**
 
