@@ -25,7 +25,7 @@
  
  #### 🌱 Estou aprendendo todos os dias:
 
-<img src="https://skillicons.dev/icons?i=python,flask,selenium,mysql,js,html,css,react,aws&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,typescript,nodejs,js,flask,selenium,react,mysql,html,css,aws&theme=dark"/>
 
 ## **Um pouco sobre mim**
 
