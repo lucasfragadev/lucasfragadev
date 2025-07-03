@@ -1,7 +1,7 @@
 <img width=100% src="/img/img-banner.gif"/>
 
 <div align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=2000&color=80F7D4&center=true&random=true&width=600&height=100&lines=Backend+Developer;Knowledge+is+power!;In+the+process+of+studying+and+learning;Have+a+nice+day!" alt="Typing SVG"/></a></div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=2000&color=80F7D4&center=true&random=true&width=600&height=100&lines=Backend+Developer;Knowledge+is+power!;" alt="Typing SVG"/></a></div>
 
 
 <div align='center'>
@@ -25,13 +25,13 @@
  
  #### 🌱 Estou aprendendo todos os dias:
 
-<img src="https://skillicons.dev/icons?i=python,typescript,nodejs,js,flask,selenium,react,mysql,html,css,aws&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=js,typescript,nodejs,mongodb,mysql,html,css,aws&theme=dark"/>
 
 ## **Um pouco sobre mim**
 
-- Olá! Pode me chamar de Fraga. Sou um desenvolvedor full-stack. <br/>
+- Olá! Pode me chamar de Fraga. Sou um desenvolvedor backend. <br/>
 - Atualmente tenho aprendido bastante sobre tecnologia, algoritmos, lógica e linguagens de progamação. <br/>
-- Tenho estudado sobre: Python, JS, MySQL, HTML & CSS etc. <br/>
+- Tenho estudado sobre: Javascript, Typescript, Node.js, MongoDB, MySQL, HTML & CSS etc. <br/>
 - Considero-me determinado e estou realmente empenhado em alcançar meus objetivos. <br/>
 - Sou apaixonado em me conectar com pessoas! Então, se quiser falar sobre aprendizado, tecnologia, família, games ou esportes. Envie-me uma mensagem!
 
@@ -42,7 +42,7 @@
 ## Vamos nos conectar? 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devlucasfraga/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasfragadev/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/avelinofragadev/)
 <!-- [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](#contact-me) -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=002B62&height=120&section=footer"/>
