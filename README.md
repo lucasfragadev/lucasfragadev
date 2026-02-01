@@ -24,7 +24,7 @@
  
  #### 🌱 I am learning every day:
 
-<img src="https://skillicons.dev/icons?i=js,typescript,nodejs,mongodb,mysql,html,css,aws&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=js,typescript,nodejs,postgres,mongodb,mysql,html,css,aws&theme=dark"/>
 
 ## **A little about me**
 
@@ -43,3 +43,4 @@
 <!-- [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](#contact-me) -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=002B62&height=120&section=footer"/>
+
