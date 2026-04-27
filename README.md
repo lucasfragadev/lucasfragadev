@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=2000&color=80F7D4&center=true&vCenter=true&random=true&width=600&height=100&lines=Backend+Developer;A+vida+%C3%A9+curta%2C+ent%C3%A3o%2C+curta!;Knowledge+is+power" alt="Typing SVG" /></a></div>
 
 <div align='center'>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasfraga&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <img src="/img/lineBar.png" width="100%" height="8px"/>
