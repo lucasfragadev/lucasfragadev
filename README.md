@@ -7,9 +7,6 @@
   <table>
     <tr>
       <td>
-       <img height="180em" src="https://streak-stats.demolab.com?user=lucasfragadev&theme=tokyonight"/>
-      </td>
-      <td>
        <img 
         height="180em" 
         src="https://github-readme-streak-stats.herokuapp.com/?user=lucasfragadev&theme=tokyonight" 
