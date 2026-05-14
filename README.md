@@ -10,7 +10,10 @@
        <img height="180em" src="https://streak-stats.demolab.com?user=lucasfragadev&theme=tokyonight"/>
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfragadev&layout=compact&langs_count=7&theme=tokyonight"/>
+       <img 
+        height="180em" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=lucasfragadev&theme=tokyonight" 
+       />
       </td>
     </tr>
   </table>
