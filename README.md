@@ -25,7 +25,7 @@
  
  #### 🌱 I am learning every day:
 
-<img src="https://skillicons.dev/icons?i=js,typescript,nodejs,python,postgres,mongodb,mysql,html,css,aws,azure&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=js,typescript,nodejs,python,slq,postgres,mongodb,mysql,html,css,aws,azure,supabase,grafana&theme=dark"/>
 
 ## **A little about me**
 
